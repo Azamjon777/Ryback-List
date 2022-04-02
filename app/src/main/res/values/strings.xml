@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ryback</string>
+    <string name="fish">Рыбы</string>
+    <string name="najivka">Наживки</string>
+    <string name="snasti">Снасти</string>
+    <string name="history">История</string>
+</resources>

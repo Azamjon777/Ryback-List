@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_vi ew">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/fish"
+            android:id="@+id/id_fish"
+            android:icon="@drawable/ic_fish">
+        </item>
+        <item android:title="@string/najivka"
+            android:id="@+id/id_najivka"
+            android:icon="@drawable/ic_fish">
+        </item>
+        <item android:title="@string/snasti"
+            android:id="@+id/id_snasty"
+            android:icon="@drawable/ic_fish">
+        </item>
+        <item android:title="@string/history"
+            android:id="@+id/id_history"
+            android:icon="@drawable/ic_fish">
+        </item>
+    </group>
+
+</menu>
